@@ -1,8 +1,8 @@
-## import streamlit as st
-## import pandas as pd
-## import joblib
-## import matplotlib.pyplot as plt
-## import seaborn as sns
+import streamlit as st
+import pandas as pd
+import joblib
+import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.datasets import load_iris
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier
