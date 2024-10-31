@@ -1,2 +1,2 @@
 # test_ia
- aula 13 de ia
+ Códigos, modelos e etc da aula 13 de Inteligencia Artificial
